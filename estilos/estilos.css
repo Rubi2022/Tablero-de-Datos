@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Kannada&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@1&display=swap');
+body{
+    font-family: 'Tiro Kannada', serif; }
+
+.text-head{
+        background-color: rgba(241, 176, 79, 0.884);
+        font-size: 150%;
+        color: rgb(40, 44, 44);
+        text-align: center;
+        }  
+.font-fir{
+    font-family: 'Tiro Devanagari Hindi', serif;
+
+}          
